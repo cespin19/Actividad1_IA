@@ -1,5 +1,5 @@
 [
-  {"alumno":"Jose","nota":9.5,"ranking":1},
+  {"alumno":"Christian","nota":9.5,"ranking":1},
   {"alumno":"Sergio","nota":8.5,"ranking":2},
   {"alumno":"Esther","nota":7.9,"ranking":3},
   {"alumno":"Martha","nota":6.3,"ranking":4},
@@ -8,5 +8,5 @@
   {"alumno":"Juan","nota":4.9,"ranking":7},
   {"alumno":"Laura","nota":4.0,"ranking":8},
   {"alumno":"María","nota":3.5,"ranking":9},
-  {"alumno":"Eva","nota":2.5,"ranking":10}
+  {"alumno":"Espin","nota":2.5,"ranking":10}
 ]
